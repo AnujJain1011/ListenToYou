@@ -48,3 +48,7 @@ html {
 body {
   -ms-overflow-style: -ms-autohiding-scrollbar;
 }
+
+.center{
+  text-align: center;
+}
